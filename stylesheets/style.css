@@ -17,11 +17,11 @@
   --yoti-text: myFirstFont, sans-serif;
 }
 
-._1bu0tWqM_3c5iKM1KTN7ji::before {
-  background-repeat: no-repeat;
-  background-size: 32px 32px;
-  height: 32px;
-}
+/*._1bu0tWqM_3c5iKM1KTN7ji::before {*/
+/*  background-repeat: no-repeat;*/
+/*  background-size: 32px 32px;*/
+/*  height: 32px;*/
+/*}*/
 
 ._1bu0tWqM_3c5iKM1KTN7ji._1t-17RCbdQ8C2z2ImfCL3R::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/approve.svg');
@@ -34,11 +34,7 @@
   background-size: 32px 32px;
   height: 32px;
 }
-._3gricP0o14vCbVxt_XELt0::before {
-  background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/sim-card.svg');
-  background-size: 32px 32px;
-  height: 32px;
-}
+
 ._1bu0tWqM_3c5iKM1KTN7ji._3gricP0o14vCbVxt_XELt0::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/sim-card.svg');
   background-size: 32px 32px;
