@@ -23,19 +23,19 @@
 /*  height: 32px;*/
 /*}*/
 
-._1bu0tWqM_3c5iKM1KTN7ji._1t-17RCbdQ8C2z2ImfCL3R::before {
+.info-list-item__tick::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/approve.svg');
   background-size: 32px 32px;
   height: 32px;
 }
 
-._1bu0tWqM_3c5iKM1KTN7ji._1AsdBVl2ovYkrYK4_QlZyJ::before {
+.info-list-item__lock::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/keyhole.svg');
   background-size: 32px 32px;
   height: 32px;
 }
 
-._1bu0tWqM_3c5iKM1KTN7ji._3gricP0o14vCbVxt_XELt0::before {
+.info-list-item__token::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/sim-card.svg');
   background-size: 32px 32px;
   height: 32px;
