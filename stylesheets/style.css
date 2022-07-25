@@ -23,22 +23,22 @@
 /*  height: 32px;*/
 /*}*/
 
+.info-list-item::before {
+    background-repeat: no-repeat;
+    background-size: 32px 32px;
+    height: 32px;
+}
+
 .info-list-item__tick::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/approve.svg');
-  background-size: 32px 32px;
-  height: 32px;
 }
 
 .info-list-item__lock::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/keyhole.svg');
-  background-size: 32px 32px;
-  height: 32px;
 }
 
 .info-list-item__token::before {
   background-image: url('https://cdn.jsdelivr.net/gh/andrew-james-yoti/000-000-000-000/assets/sim-card.svg');
-  background-size: 32px 32px;
-  height: 32px;
 }
 
 .yoti-button {
